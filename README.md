@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Remith! 
 
-Data Science & Machine Learning Enthusiast | Turning Data into Actionable Insights
-
+Data Science & Machine Learning Enthusiast | Turning Data into Actionable Insights <br/>
 Let’s connect and explore the power of data together!
 
 
