@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hey there, I'm Remith! 
+# 👋 Hi, I'm Remith! 
 
 Data Science & Machine Learning Enthusiast | Turning Data into Actionable Insights
 
