@@ -12,7 +12,7 @@ Let’s connect and explore the power of data together!
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=remithsajin&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=remithsajin&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=remithsajin&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=remithsajin&theme=radical&no-frame=false&no-bg=false&margin-w=4)
